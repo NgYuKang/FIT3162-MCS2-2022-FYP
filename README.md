@@ -1,6 +1,8 @@
 # FIT3162 MCS2 Sports Non-Sports Classification
 
 
+The instructions below are a quick guide on how to run this project.
+For a more detailed guide, check the user guide pdf included with the repo.
 
 ## How to setup
 Make sure Anaconda is installed to continue. <br />
